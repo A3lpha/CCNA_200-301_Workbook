@@ -35,6 +35,7 @@ R1(config)# ipv6 unicast-routing
 R1(config)# interface GigabitEthernet 0/0
 R1(config-if)# ipv6 add 2001:abcd:abcd::1/64
 R1(config-if)# no shutdown
+~~~
 # Task 3:
 ~~~
 ~~~
