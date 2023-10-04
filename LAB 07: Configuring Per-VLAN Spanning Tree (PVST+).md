@@ -104,7 +104,7 @@ Access2 (config-if-range)# exit
 Access2(config)# spanning-tree vlan 1,10,20 priority 61440
 (Ensures this switch does not become the root switch for VLAN 10)
 ~~~
-![](image)
+![](https://github.com/A3lpha/CCNA_200-301_Workbook/blob/main/images/Picture1.png)
 ## Troubleshooting Spanning Tree
  
 # Congratulations! You have completed this lab.
