@@ -39,9 +39,11 @@ NOTE: By default, Cisco switches are VTP servers so no configuration is necessar
 Sw1(config)#interface GigabitEthernet0/1
 Sw1(config-if)#switchport mode access
 Sw1(config-if)#switchport access vlan 10
-Sw1(config-if)#exit Sw1(config)#interface GigabitEthernet0/2
+Sw1(config-if)#exit
+Sw1(config)#interface GigabitEthernet0/2
 Sw1(config-if)#switchport mode access
-Sw1(config-if)#switchport access vlan 20 Sw1(config-if)#exit
+Sw1(config-if)#switchport access vlan 20
+Sw1(config-if)#exit
 Sw1(config)#interface GigabitEthernet0/3
 Sw1(config-if)#switchport mode access
 Sw1(config-if)#switchport access vlan 30
