@@ -2,7 +2,7 @@
 ## LAB OBJECTIVE AND ACTIVITIES:
 This lab was written for Eve-ng Community, Pre-configured Lab can be downloaded from Course Page. The lab can also easily be completed using your own equipment or GNS3. Instructions. Open the accompanying Eve-ng Lab titled “Configuring Per-VLAN Spanning Tree (PVST+)”.  
 Follow the exercises below to complete this lab.
-Lab Objectives
+# Lab Objectives
 The network topology for the configuration of PVST+ using commands covered in this chapter. Assume that other commands needed for connectivity have already been configured.
 # Core Switch:
 ~~~
